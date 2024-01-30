@@ -74,6 +74,8 @@ DATABASES = {
         'NAME': 'vcom_database',
         'USER': 'victor',
         'PASSWORD': 'victorpro450',
+        'HOST': 'localhost',
+        'PORT': '5432',
     }
 }
 
